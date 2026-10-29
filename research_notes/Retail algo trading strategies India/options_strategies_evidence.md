@@ -104,7 +104,7 @@ Academic studies agree that Nifty options carry a positive volatility/variance r
   - The 16-delta strangle produced the lowest total points and the most stop-losses, with similar drawdown.
   - A VIX filter pushed strangle win rates to about 85%. — [In The Money by Zerodha](https://inthemoneybyzerodha.substack.com/p/we-backtested-the-famous-45-dte-strategy)
 - [POST] QuantsApp prebuilt Nifty backtests, Oct 1, 2025–Sep 30, 2026 (platform vendor; one-year samples):
-  - 9:20 short strangle: −₹3,054 before costs, max drawdown ₹36,041. — [QuantsApp (summary in search)](https://www.quantsapp.com/backtesting/strategies/straddle-width-strangle)
+  - 9:20 short strangle: −₹3,054 before costs, max drawdown ₹36,041. The search summary did not show which QuantsApp page this came from. The linked "Straddle-Width Strangle" page is the closest match returned, but the attribution is uncertain. — [QuantsApp (attribution uncertain)](https://www.quantsapp.com/backtesting/strategies/straddle-width-strangle)
   - 9:20 straddle with stop-and-reverse: −₹40,794 before costs, −₹1,09,914 after costs. — [QuantsApp](https://www.quantsapp.com/backtesting/strategies/short-straddle-sl-flip-to-long-leg)
   - Overnight short straddle (close to open): +₹24,344 before costs but −₹3,372 after ₹20 per order and bid-ask slippage. — [QuantsApp](https://www.quantsapp.com/backtesting/strategies/overnight-short-options-close-to-open)
   - 45-DTE monthly short straddle: 13 trades, 54% win rate, profit factor 0.81, −₹29,776 before costs, max drawdown about ₹1.15 lakh. Average losses were larger than average wins. — [QuantsApp](https://www.quantsapp.com/backtesting/strategies/monthly-short-straddle-45dte-50pt-21dte)
